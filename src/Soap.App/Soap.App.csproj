@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Soap.Data\Soap.Data.csproj" />
     <ProjectReference Include="..\Soap.Business\Soap.Business.csproj" />
+    <ProjectReference Include="..\Soap.Data\Soap.Data.csproj" />
   </ItemGroup>
 
 </Project>

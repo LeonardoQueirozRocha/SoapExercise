@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Soap.Business\Soap.Business.csproj" />
+    <ProjectReference Include="..\Soap.Business\Soap.Business.csproj" />
   </ItemGroup>
 
 </Project>
