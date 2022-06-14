@@ -19,6 +19,7 @@ namespace Soap.Data.WebService
 
             return WebServiceMapper.PessoaMap(res);
         }
+
         public async Task<Cidade> LookupCityAsync(string zipCode)
         {
             var client = new SOAPDemoSoapClient();
